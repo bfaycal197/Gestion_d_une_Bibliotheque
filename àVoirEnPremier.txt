@@ -1,0 +1,1 @@
+les_emprunts.txt, les_etudiants.txt et les_ouvrages.txt sont des fichiers utilisés pour l'exécution, en remplissant le programme avec des données pour pouvoir gérer la bibliothèque.

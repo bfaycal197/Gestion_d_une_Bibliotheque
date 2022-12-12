@@ -1,0 +1,7 @@
+sl97899 Bases_de_Donnees_et_SGBD 52 28
+il97994 Algorithmique_et_structure_de_donnees 32 32
+il97803 Formation_a_Windows 25 15
+sl99474 Programmation_Orientee_Objet 11 10
+al98442 Systemes_d_exploitation 31 20
+al98448 Un_Outil_Pour_le_Genie_Logiciel 44 10
+il97878 Systemes_d_information 33 10
